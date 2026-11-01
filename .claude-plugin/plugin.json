@@ -11,6 +11,9 @@
   "repository": "https://github.com/bumpcore/soolist-plugin",
   "license": "proprietary",
   "privacyPolicyUrl": "https://soolist.com/privacy",
+  "termsOfServiceUrl": "https://soolist.com/terms",
+  "supportUrl": "https://soolist.com/contact",
+  "documentationUrl": "https://soolist.com/help/ai-assistants",
   "keywords": [
     "soolist",
     "ratings",
