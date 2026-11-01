@@ -8,7 +8,7 @@
     "url": "https://bumpcore.com"
   },
   "homepage": "https://soolist.com/help/connect-claude",
-  "repository": "https://github.com/bumpcore/soolist-plugin",
+  "repository": "https://github.com/bumpcore/soolist-claude-plugin",
   "license": "proprietary",
   "privacyPolicyUrl": "https://soolist.com/privacy",
   "termsOfServiceUrl": "https://soolist.com/terms",

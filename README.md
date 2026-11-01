@@ -35,7 +35,8 @@ The plugin contains no code that runs on your computer: only Markdown playbooks 
 In Claude Code:
 
 ```
-/plugin install soolist --marketplace bumpcore/soolist-plugin
+/plugin marketplace add bumpcore/soolist-claude-plugin
+/plugin install soolist@soolist
 ```
 
 ## Connecting
