@@ -2,8 +2,8 @@
   "name": "soolist",
   "description": "Soolist for Claude: rate, track and organise what you love in your Soolist account.",
   "owner": {
-    "name": "Soolist",
-    "url": "https://soolist.com/"
+    "name": "Bumpcore",
+    "url": "https://bumpcore.com"
   },
   "plugins": [
     {

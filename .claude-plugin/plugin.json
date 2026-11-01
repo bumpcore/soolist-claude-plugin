@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description": "Rate, track and organise what you watch, read, play and visit in your Soolist, from Claude.",
   "author": {
-    "name": "Soolist",
-    "url": "https://soolist.com/"
+    "name": "Bumpcore",
+    "url": "https://bumpcore.com"
   },
   "homepage": "https://soolist.com/help/connect-claude",
   "repository": "https://github.com/bumpcore/soolist-plugin",
