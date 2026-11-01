@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soolist": {
+      "type": "http",
+      "url": "https://mcp.soolist.com/"
+    }
+  }
+}

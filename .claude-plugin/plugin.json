@@ -1,0 +1,25 @@
+{
+  "name": "soolist",
+  "displayName": "Soolist",
+  "version": "1.0.0",
+  "description": "Rate, track and organise what you watch, read, play and visit in your Soolist, from Claude.",
+  "author": {
+    "name": "Soolist",
+    "url": "https://soolist.com/"
+  },
+  "homepage": "https://soolist.com/help/connect-claude",
+  "repository": "https://github.com/bumpcore/soolist-plugin",
+  "license": "proprietary",
+  "privacyPolicyUrl": "https://soolist.com/privacy",
+  "keywords": [
+    "soolist",
+    "ratings",
+    "lists",
+    "collections",
+    "movies",
+    "books",
+    "games"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
